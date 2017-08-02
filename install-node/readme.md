@@ -45,3 +45,15 @@
     
     nvm use system #Linux
     ```
+    
+**Execute File**
+
+ ```
+ node file.js
+ ```
+**Execute with Nodemon**
+
+ ```
+ npm install nodemon -g
+ nodemon <file.js>
+ ```

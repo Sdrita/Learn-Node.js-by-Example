@@ -55,5 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.en.idea/
-
+..idea/
+misc.xml
+workspace.xml
