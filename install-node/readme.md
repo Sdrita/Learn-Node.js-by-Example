@@ -57,3 +57,23 @@
  npm install nodemon -g
  nodemon <file.js>
  ```
+ 
+ **Node Package Manager**
+ 
+- create file package.json
+```
+npm init
+```
+Read [Docs packaje.json](https://docs.npmjs.com/files/package.json)
+
+Local install packages:
+```
+npm install <packageName> [--save]
+```
+Global install packages:
+```
+npm install -g  <packageName>
+```
+Info update dependences:
+
+[The semantic versioner for npm](https://github.com/npm/node-semver/)
