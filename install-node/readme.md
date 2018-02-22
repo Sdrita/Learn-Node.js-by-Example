@@ -32,8 +32,10 @@
     
 - Install Version Manager:
     ```
-    git clone https://github.com/lukechilds/zsh-nvm ~/.oh-my-zsh/custom/plugins/zsh-nvm
+    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
     ```
+    [More info:](https://github.com/creationix/nvm)
+
     Manager node:
     
     ```
