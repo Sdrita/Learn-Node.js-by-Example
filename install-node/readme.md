@@ -32,7 +32,7 @@
     
 - Install Version Manager:
     ```
-    [sudo] npm i -g nvm
+    git clone https://github.com/lukechilds/zsh-nvm ~/.oh-my-zsh/custom/plugins/zsh-nvm
     ```
     Manager node:
     
